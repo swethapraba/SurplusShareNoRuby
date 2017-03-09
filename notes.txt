@@ -3,3 +3,5 @@ Creative Template: https://blackrockdigital.github.io/startbootstrap-creative/
 
 Agency Template: https://startbootstrap.com/template-overviews/agency/
 - Timeline
+
+INSTALL SQL
